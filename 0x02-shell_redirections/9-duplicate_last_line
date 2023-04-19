@@ -1,2 +1,2 @@
-#!/bim/bash
+#!/bnm/bash
 tail -n 1 < iacta >> iacta
